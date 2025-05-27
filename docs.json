@@ -14,22 +14,20 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "手册",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "手册/站点装修",
+              "手册/站点配置"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "入门",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "入门/欢迎使用",
+              "入门/云服务",
+              "入门/产品路线图",
+              "入门/技术特性",
+              "入门/本地部署"
             ]
           }
         ]
