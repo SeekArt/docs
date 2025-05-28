@@ -49,35 +49,35 @@
     <td align="center">固定风格</td>
   </tr>
   <tr>
-    <td align="center">权限控制</td>
+    <td align="center">使用权限</td>
     <td align="center">企业级权限</td>
-    <td align="center">个人</td>
-    <td align="center">个人</td>
-    <td align="center">个人</td>
+    <td align="center">无</td>
+    <td align="center">无</td>
+    <td align="center">无</td>
   </tr>
   <tr>
-    <td align="center">用户管理</td>
+    <td align="center">智能体接入</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
     <td align="center">❌</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center">智能体</td>
+    <td align="center">大模型接入</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
-    <td align="center">❌</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center">提示词</td>
+    <td align="center">注册用户</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center">AI导航</td>
+    <td align="center">内部用户</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
     <td align="center">❌</td>
@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td align="center">单点登录</td>
-    <td align="center">LDAP/AD、企微、钉钉、飞书</td>
+    <td align="center">企微、钉钉、飞书</td>
     <td align="center">❌</td>
     <td align="center">❌</td>
     <td align="center">❌</td>
@@ -102,7 +102,7 @@
 ## 使用 53AI Hub
 
 * **云服务 </br>**
-  我们提供[ 53AI Hub 云服务](https://hub.53ai.com)，用户可以在线申请开通。它提供了53AI Hub的全部功能，在免费版本中支持接入20个智能体及100个注册用户。
+  我们提供[ 53AI Hub 云服务](https://hub.53ai.com)，用户可以在线申请开通。它提供了53AI Hub的全部功能，在免费版本中支持接入10个智能体及100个注册用户。
 * **社区版</br>**
   使用这个[入门指南](#快速启动)快速在您自己的服务器上运行 53AI Hub。
   阅读这个[产品文档](https://docs.53ai.com)进行进一步的参考和更深入的了解。

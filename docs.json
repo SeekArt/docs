@@ -11,49 +11,84 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Get Started",
+
+          "tab": "53AIHub",
+          "groups": [{
+            "group": "手册",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "53AI Hub-docs/手册/站点装修/模板风格",
+              "53AI Hub-docs/手册/站点装修/Banner图",
+              "53AI Hub-docs/手册/运营管理/订单数据",
+              "53AI Hub-docs/手册/运营管理/用户数据",
+              "53AI Hub-docs/手册/站点配置/站点信息",
+              "53AI Hub-docs/手册/应用管理/智能体",
+              "53AI Hub-docs/手册/前台使用/前台使用",
+              "53AI Hub-docs/手册/站点配置/平台接入",
+              "53AI Hub-docs/手册/站点配置/支付配置",
+              "53AI Hub-docs/手册/站点配置/三方统计",
+              "53AI Hub-docs/手册/站点配置/订阅服务",
+              "53AI Hub-docs/手册/站点配置/站点域名"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "动手",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
+              "53AI Hub-docs/动手/评测/readme",
+              "53AI Hub-docs/动手/评测/评测1"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "社区",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "53AI Hub-docs/社区/成为贡献者",
+              "53AI Hub-docs/社区/为文档做出贡献",
+              "53AI Hub-docs/社区/需求支持"
+            ]
+          },
+          {
+            "group": "开发",
+            "pages": [
+              "53AI Hub-docs/开发/readme-api",
+              "53AI Hub-docs/开发/readme-front",
+              "53AI Hub-docs/开发/readme-console",
+              "53AI Hub-docs/开发/ISSUE_TEMPLATE",
+              "53AI Hub-docs/开发/CHANGELOG",
+              "53AI Hub-docs/开发/CONTRIBUTING",
+              "53AI Hub-docs/开发/CODE_OF_CONDUCT",
+              "53AI Hub-docs/开发/SECURITY"
+            ]
+          },
+          {
+            "group": "图表",
+            "pages": [
+              "53AI Hub-docs/图表/支付配置流程图",
+              "53AI Hub-docs/图表/平台接入-整体流程图",
+              "53AI Hub-docs/图表/前台使用图",
+              "53AI Hub-docs/图表/平台接入-统一部署型平台流程图",
+              "53AI Hub-docs/图表/站点域名流程图",
+              "53AI Hub-docs/图表/订阅服务图示化",
+              "53AI Hub-docs/图表/智能体流程图",
+              "53AI Hub-docs/图表/序列图（sequencediagram）",
+              "53AI Hub-docs/图表/系统架构图",
+              "53AI Hub-docs/图表/三方统计图示化",
+              "53AI Hub-docs/图表/站点信息图示化"
+            ]
+          },
+          {
+            "group": "入门",
+            "pages": [
+              "53AI Hub-docs/入门/欢迎使用",
+              "53AI Hub-docs/入门/技术特性",
+              "53AI Hub-docs/入门/云服务",
+              "53AI Hub-docs/入门/本地部署",
+              "53AI Hub-docs/入门/开源许可协议",
+              "53AI Hub-docs/入门/产品路线图"
             ]
           }
         ]
+
       }
+
     ],
     "global": {
       "anchors": [
