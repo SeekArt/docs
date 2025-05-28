@@ -1,119 +1,118 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
-  "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
-  },
-  "favicon": "/favicon.svg",
-  "navigation": {
-    "tabs": [
-      {
-
-          "tab": "53AIHub",
-          "groups": [
-          {
-            "group": "入门",
-            "pages": [
-              "/入门/欢迎使用",
-              "/入门/技术特性",
-              "/入门/云服务",
-              "/入门/本地部署",
-              "/入门/开源许可协议",
-              "/入门/产品路线图"
-            ]
-          },
-          {
-            "group": "手册",
-            "pages": [
-              {
-                "group": "站点配置",
-                "pages": [
-                  "/手册/站点配置/站点信息",
-                  "/手册/站点配置/平台接入",
-                  "/手册/站点配置/支付配置",
-                  "/手册/站点配置/三方统计",
-                  "/手册/站点配置/订阅服务",
-                  "/手册/站点配置/站点域名"
+    "$schema": "https://mintlify.com/docs.json",
+    "theme": "mint",
+    "name": "Mint Starter Kit",
+    "colors": {
+        "primary": "#16A34A",
+        "light": "#07C983",
+        "dark": "#15803D"
+    },
+    "favicon": "/favicon.svg",
+    "navigation": {
+        "tabs": [
+            {
+                "tab": "53AIHub",
+                "groups": [
+                    {
+                        "group": "入门",
+                        "pages": [
+                            "/入门/欢迎使用",
+                            "/入门/技术特性",
+                            "/入门/云服务",
+                            "/入门/本地部署",
+                            "/入门/开源许可协议",
+                            "/入门/产品路线图"
+                        ]
+                    },
+                    {
+                        "group": "手册",
+                        "pages": [
+                            {
+                                "group": "站点配置",
+                                "pages": [
+                                    "/手册/站点配置/站点信息",
+                                    "/手册/站点配置/平台接入",
+                                    "/手册/站点配置/支付配置",
+                                    "/手册/站点配置/三方统计",
+                                    "/手册/站点配置/订阅服务",
+                                    "/手册/站点配置/站点域名"
+                                ]
+                            },
+                            {
+                                "group": "前台使用",
+                                "pages": [
+                                    "/手册/前台使用/前台使用"
+                                ]
+                            },
+                            {
+                                "group": "应用管理",
+                                "pages": [
+                                    "/手册/应用管理/智能体"
+                                ]
+                            },
+                            {
+                                "group": "运营管理",
+                                "pages": [
+                                    "/手册/运营管理/订单数据",
+                                    "/手册/运营管理/用户数据"
+                                ]
+                            },
+                            {
+                                "group": "站点装修",
+                                "pages": [
+                                    "/手册/站点装修/模板风格",
+                                    "/手册/站点装修/Banner图"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "group": "社区",
+                        "pages": [
+                            "/社区/成为贡献者",
+                            "/社区/为文档做出贡献",
+                            "/社区/需求支持"
+                        ]
+                    },
+                    {
+                        "group": "开发",
+                        "pages": [
+                            "/开发/readme-api",
+                            "/开发/readme-front",
+                            "/开发/readme-console",
+                            "/开发/ISSUE_TEMPLATE",
+                            "/开发/CHANGELOG",
+                            "/开发/CONTRIBUTING",
+                            "/开发/CODE_OF_CONDUCT",
+                            "/开发/SECURITY"
+                        ]
+                    }
                 ]
-              },
-              {
-                "group": "前台使用",
-                "pages": [
-                  "/手册/前台使用/前台使用"
-                ]
-              },
-              {
-                "group": "应用管理",
-                "pages": [
-                  "/手册/应用管理/智能体"
-                ]
-              },
-              {
-                "group": "运营管理",
-                "pages": [
-                  "/手册/运营管理/订单数据",
-                  "/手册/运营管理/用户数据"
-                ]
-              },
-              {
-                "group": "站点装修",
-                "pages": [
-                  "/手册/站点装修/模板风格",
-                  "/手册/站点装修/Banner图",
-                ]
-              }
-            ]
-          },
-          {
-            "group": "社区",
-            "pages": [
-              "/社区/成为贡献者",
-              "/社区/为文档做出贡献",
-              "/社区/需求支持"
-            ]
-          },
-          {
-            "group": "开发",
-            "pages": [
-              "/开发/readme-api",
-              "/开发/readme-front",
-              "/开发/readme-console",
-              "/开发/ISSUE_TEMPLATE",
-              "/开发/CHANGELOG",
-              "/开发/CONTRIBUTING",
-              "/开发/CODE_OF_CONDUCT",
-              "/开发/SECURITY"
-            ]
-          }
+            }
         ]
-      }
-    ]
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+    },
+    "logo": {
+        "light": "/logo/light.svg",
+        "dark": "/logo/dark.svg"
+    },
+    "navbar": {
+        "links": [
+            {
+                "label": "Support",
+                "href": "mailto:hi@mintlify.com"
+            }
+        ],
+        "primary": {
+            "type": "button",
+            "label": "Dashboard",
+            "href": "https://dashboard.mintlify.com"
+        }
+    },
+    "footer": {
+        "socials": {
+            "x": "https://x.com/mintlify",
+            "github": "https://github.com/mintlify",
+            "linkedin": "https://linkedin.com/company/mintlify"
+        }
     }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
-  }
 }
