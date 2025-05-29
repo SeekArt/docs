@@ -110,20 +110,19 @@
         "links": [
             {
                 "label": "Support",
-                "href": "mailto:hi@mintlify.com"
+                "href": "mailto:hi@53ai.com"
             }
         ],
         "primary": {
             "type": "button",
-            "label": "Dashboard",
-            "href": "https://dashboard.mintlify.com"
+            "label": "53AIHub",
+            "href": "https://hub.53ai.com"
         }
     },
     "footer": {
         "socials": {
-            "x": "https://x.com/mintlify",
-            "github": "https://github.com/mintlify",
-            "linkedin": "https://linkedin.com/company/mintlify"
+            "github": "https://github.com/53AI/53AIHub",
+            "website": "https://www.53ai.com"
         }
     }
 }
